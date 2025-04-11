@@ -21,6 +21,20 @@
 </div>
 <!-- ================================================== -->
 
+<!-- ========================== Certifications ======================== -->
+<div style="display: flex; justify-content: center;">
+<div align="center" style="width: 40%; display: flex; justify-content: space-evenly;">
+<a href="https://www.credly.com/badges/19a6aef9-a37f-41aa-ba9c-0911bac1a20c/public_url" target="_blank" style="display: inline-block;" >
+  <img src="https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2F%2Fd2ea738c-e8ed-4b54-9b1a-a303afc9f923/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAKBViPBhGCEg2U-DvH1t-hBQarbxjpx0UIoiNYuFkF44&exp=1744394832&osig=AAAAAAAAAAAAAAAAAAAAAPTeXj01uDuKsJMDAGIypvTXD4nRg1iEWeWsW0Gu_suB&signer=media-rpc&x-canva-quality=thumbnail" height="100" alt="sol-architect-logo"  />
+</a>
+<a href="https://www.credly.com/badges/4a170a64-c371-44d1-abe1-46da9adab014/public_url" target="_blank" style="display: inline-block;" >
+  <img src="https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2F%2Ff0a5a12e-1c35-4e37-8c5e-d69d2a573a60/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAGKmY8ZJ5jaRjk6xHXcD20xGX1u2rZPXW0eJg0mnxHdm&exp=1744395038&osig=AAAAAAAAAAAAAAAAAAAAAC5vdq3OmN_EiEAtNNDRMgIMlAx1Ddb82zllanZD7jWC&signer=media-rpc&x-canva-quality=thumbnail" height="100" alt="terraform-logo"  />
+</a>
+</div>
+</div>
+<!-- ================================================== -->
+
+<br>
 <!-- ========================== Socials ======================== -->
 <div style="display: flex; justify-content: center;">
 <div align="center" style="width: 30%; display: flex; justify-content: space-evenly;>
@@ -42,9 +56,11 @@
 <br>
 
 <!-- ========================== Quote ======================== -->
+
 > " It is staggering how the provenance of man's transcendent joys or deepest despair can always be traced back to the whimsical tantrum of a binary pulse."
-> 
-> — *Me*
+>
+> — _Me_
+
 <!-- ================================================== -->
 
 <br>
@@ -54,15 +70,17 @@
 <img align="right" height="200" src="https://media1.tenor.com/m/jdRfa36eWnAAAAAd/satou-kazuma-thumbs-up.gif"  />
 
 🔭 **I’m currently working on:**
+
 - 💰 **ATLAS (A Trading and Liquidity Algorithmic System)**: An automated system that screens cryptocurrencies and generates returns with backtested strategies
 - ⚙️ **HALO (Home Automation and Living Optimization)**: My personal suite of interconnected home servers for data and media sharing.
 
-
 📚 **I’m currently studying for:**
+
 - 🏦 The CFA Level 1
-- 🇯🇵 JLPT N2 ~ ***日本語って結構むずいね***
+- 🇯🇵 JLPT N2 ~ **_日本語って結構むずいね_**
 
 ⚡ **Fun fact**: I am susceptible to an identity crisis when my code works on the first try.
+
 <!-- ================================================== -->
 
 <br>
@@ -70,6 +88,7 @@
 <!-- ========================== Tech Stack ======================== -->
 <!-- # 💻 Tech Stack: -->
 <!-- Languages -->
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -103,6 +122,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
 <!-- ================================================== -->
 
 <br>
@@ -119,11 +139,11 @@
 <br>
 
 <!-- ========================== Github Stats ======================== -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=swankyhacker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=swankyhacker&theme=dark&hide_border=false)
 <br/>
+
 <!-- [![](https://visitcount.itsvg.in/api?id=swankyhacker&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- ================================================== -->
-
-
