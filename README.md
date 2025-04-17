@@ -25,10 +25,10 @@
 <div style="display: flex; justify-content: center;">
 <div align="center" style="width: 40%; display: flex; justify-content: space-evenly;">
 <a href="https://www.credly.com/badges/19a6aef9-a37f-41aa-ba9c-0911bac1a20c/public_url" target="_blank" style="display: inline-block;" >
-  <img src="https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2F%2Fd2ea738c-e8ed-4b54-9b1a-a303afc9f923/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAKBViPBhGCEg2U-DvH1t-hBQarbxjpx0UIoiNYuFkF44&exp=1744394832&osig=AAAAAAAAAAAAAAAAAAAAAPTeXj01uDuKsJMDAGIypvTXD4nRg1iEWeWsW0Gu_suB&signer=media-rpc&x-canva-quality=thumbnail" height="100" alt="sol-architect-logo"  />
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="100" alt="sol-architect-logo"  />
 </a>
 <a href="https://www.credly.com/badges/4a170a64-c371-44d1-abe1-46da9adab014/public_url" target="_blank" style="display: inline-block;" >
-  <img src="https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2F%2Ff0a5a12e-1c35-4e37-8c5e-d69d2a573a60/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAGKmY8ZJ5jaRjk6xHXcD20xGX1u2rZPXW0eJg0mnxHdm&exp=1744395038&osig=AAAAAAAAAAAAAAAAAAAAAC5vdq3OmN_EiEAtNNDRMgIMlAx1Ddb82zllanZD7jWC&signer=media-rpc&x-canva-quality=thumbnail" height="100" alt="terraform-logo"  />
+  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="100" alt="terraform-logo"  />
 </a>
 </div>
 </div>
