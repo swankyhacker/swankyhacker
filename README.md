@@ -24,11 +24,21 @@
 <!-- ========================== Certifications ======================== -->
 <div style="display: flex; justify-content: center;">
 <div align="center" style="width: 40%; display: flex; justify-content: space-evenly;">
+<a href="https://credentials.cfainstitute.org/9bca04c5-3b24-4290-a7c5-a23a0c821f9e#acc.atNi5BAs" target="_blank" style="display: inline-block;" >
+  <img src="https://credentials.liyinchew.org/wp-content/uploads/2025/10/a8acda24-ffe2-4767-a0dd-6956992bba7d.png" height="100" alt="sol-architect-logo"  />
+</a>
+</div>
+</div>
+
+<br>
+
+<div style="display: flex; justify-content: center;">
+<div align="center" style="width: 40%; display: flex; justify-content: space-evenly;">
 <a href="https://www.credly.com/badges/19a6aef9-a37f-41aa-ba9c-0911bac1a20c/public_url" target="_blank" style="display: inline-block;" >
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/twitter_thumb_201604_image.png" height="100" alt="sol-architect-logo"  />
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="sol-architect-logo"  />
 </a>
 <a href="https://www.credly.com/badges/4a170a64-c371-44d1-abe1-46da9adab014/public_url" target="_blank" style="display: inline-block;" >
-  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="100" alt="terraform-logo"  />
+  <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="100" alt="terraform-logo"  />
 </a>
 </div>
 </div>
@@ -76,8 +86,8 @@
 
 📚 **I’m currently studying for:**
 
-- 🏦 The CFA Level 1
 - 🇯🇵 JLPT N2 ~ **_日本語って結構むずいね_**
+- 👨🏻‍💻 SAP BTP Solutions Architect
 
 ⚡ **Fun fact**: I am susceptible to an identity crisis when my code works on the first try.
 
